@@ -3,7 +3,7 @@ Course Registration App in PHP and MySQL
 
 NOTE FOR INSTALLATION: 
 A>Please download and install WAMP, MAMP or XAMP server.
-B>Please rum installed server and place folder into C:\wamp\www i.e. root folder. In php.ini update setting : DocumentRoot "C:/xampp/htdocs/Student-Course"
+B>Please rum installed server and place folder into C:\wamp\www i.e. root folder. In php.ini update setting : DocumentRoot "C:/xampp/htdocs/StudentCourseRegistration" as per the folder name where git clone is done.
 C>PLEASE RUN initial-database-setup.php to create database schema.
 D>Launch "localhost" in any browser.
 
